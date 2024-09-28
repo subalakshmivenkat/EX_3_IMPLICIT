@@ -2,10 +2,9 @@
 Design an Android application with a text field and an "Open in Browser" button. On pressing the button, the app should fetch the URL from the text field and open it in a browser using an Implicit Intent.
 
 ## AIM:
-
 To design an Android application with a TextField and a button labeled "Open in Browser." Upon pressing the button, the application should retrieve the URL entered in the TextField and open it in the device's web browser using an implicit intent.
-## EQUIPMENTS REQUIRED:
 
+## EQUIPMENTS REQUIRED:
 Latest Version Android Studio
 
 ## ALGORITHM:
@@ -93,9 +92,9 @@ activitymain.xml
 </RelativeLayout>
 ```
 ## OUTPUT
-
-
-
+![image](https://github.com/user-attachments/assets/2cde6d54-5861-447c-996f-00dacfda8a28)
+![image](https://github.com/user-attachments/assets/1a8d04f3-565f-4b27-80d5-77e647d02191)
+![image](https://github.com/user-attachments/assets/05322898-162a-414f-9abb-b38514b0d2bc)
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
